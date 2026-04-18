@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan M. Bravo
 ======================================================================================================================================
 
-Data Analyst | Data Scientist | MS in Data Analytics Graduate
+Analytics Engineer | Data Scientist | Cloud-native ETL
 -------------------------------------------------------------
 
 # 💫 About Me:
-I earned a Master of Science in Data Analytics from Western Governors University and am a certified Data Analyst Associate from DataCamp. Additionally, I hold a Bachelor of Science in Business Administration and Business Management. I aspire to pursue a career as an analyst who solves complex challenges within an organization’s initiatives.
+I’m an Analytics Engineer who builds fast, reliable, and scalable data systems that turn messy, inconsistent data into trusted, analysis-ready assets. I blend cloud-native engineering (PySpark, SQL, Databricks, AWS, Azure) with a product mindset—focusing on observability, automated validation, cost-efficient ETL/ELT design, and intuitive interfaces that empower analysts, data scientists, and ML teams.
 
 
 ## 🌐 Socials:
